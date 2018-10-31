@@ -4,6 +4,6 @@ It basically receives data of upcoming weather and represents in the form of a c
 
 to run this app:
 Go to the terminal and type in
-'npm install'
+`npm install`
 After that:
-'npm start'
+`npm start`
